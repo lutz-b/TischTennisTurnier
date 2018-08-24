@@ -1,0 +1,11 @@
+﻿<Application x:Class="TTT.View.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TTT.View"
+             xmlns:data="clr-namespace:TTT.Data;assembly=TTT.Data"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <data:ViewModelLocator x:Key="ViewModelLocator"></data:ViewModelLocator>
+    </Application.Resources>
+</Application>
+

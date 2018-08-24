@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTT.Data", "TTT.Data\TTT.Data.csproj", "{DD7C11BD-5C4F-4689-9F08-48475BE6E02A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTT.View", "TTT.View\TTT.View.csproj", "{34FBE7ED-975E-489F-AAAB-E4B1F0DEF1C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DD7C11BD-5C4F-4689-9F08-48475BE6E02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD7C11BD-5C4F-4689-9F08-48475BE6E02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD7C11BD-5C4F-4689-9F08-48475BE6E02A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FBE7ED-975E-489F-AAAB-E4B1F0DEF1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FBE7ED-975E-489F-AAAB-E4B1F0DEF1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FBE7ED-975E-489F-AAAB-E4B1F0DEF1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FBE7ED-975E-489F-AAAB-E4B1F0DEF1C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
